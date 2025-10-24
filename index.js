@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta property="og:title" content="Kevin & Wilona">
+    <meta property="og:image" content="https://kevinandwilona.com/preview.jpg">
+    <meta property="og:url" content="https://kevinandwilona.com/">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta http-equiv="refresh" content="0; url=https://withjoy.com/kevin-and-wilona">
+    <title>Kevin & Wilona</title>
+  </head>
+  <body>
+    Redirecting to our wedding website...
+  </body>
+</html>
